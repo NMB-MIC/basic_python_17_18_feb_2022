@@ -2,6 +2,7 @@
 basic python cause online, Date: 17-18 feb 2022
 
 Day 1
+
 - Chapter 1: Getting Started 
 - Chapter 2: Variables and Simple Data Types 
 - Chapter 3: Introducing Lists
@@ -10,6 +11,7 @@ Day 1
 - Chapter 6: Dictionaries 
 - Chapter 7: User Input and while Loops 
 Day 2
+
 - Chapter 8: Functions 
 - Chapter 9: Classes
 - Chapter 10: Matplotlib
